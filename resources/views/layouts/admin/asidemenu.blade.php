@@ -1,6 +1,6 @@
 <aside class="side-nav">
     <div class="logo-wrapper">
-        <a href="">
+        <a href="/home">
             <div class="logo-title">Take It Easy</div>
             <div class="logo-subtitle">Pedidos a domicilio</div>
         </a>
@@ -72,7 +72,7 @@
     <div class="main-menu">
         <ul>
             <li>
-                <a href="index.html">
+                <a href="/home">
                     <i class="fa fa-bars"></i>
                     <span>Dashboard</span>
                 </a>
@@ -84,8 +84,8 @@
                     <div class="badge badge-red pull-right">21</div>
                 </a>
                 <ul>
-                    <li><a href="#">Nuevo pedido</a></li>
-                    <li><a href="#">Todos los pedidos</a></li>
+                    <li><a href="/orders/new">Nuevo pedido</a></li>
+                    <li><a href="/orders/list">Todos los pedidos</a></li>
                 </ul>
             </li>
             <li>

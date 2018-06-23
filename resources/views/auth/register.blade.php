@@ -4,8 +4,11 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
+            @if(Session::has('message'))
+                <p class="alert alert-info">{{ Session::get('message') }}</p>
+            @endif
             <div class="card">
-                <div class="card-header">{{ __('Registrar') }}</div>
+                <div class="card-header">{{ __('Registrar') }} | ¡Al hacerlo obten tu primer pedido gratis!</div>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('register') }}">

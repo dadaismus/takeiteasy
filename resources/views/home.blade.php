@@ -13,10 +13,10 @@
                     <i class="fa fa-newspaper-o"></i>
                     <div class="content-header-title">Pedidos en TakeItEasy</div>
                     <select class="select-rounded pull-right">
-                        <option>Today</option>
-                        <option>7 Days</option>
-                        <option>14 Days</option>
-                        <option>Last Month</option>
+                        <option>Hoy</option>
+                        <option>Por hora</option>
+                        <option>Por día</option>
+                        <option>Por Mes</option>
                     </select>
                 </div>
                 <div class="panel">
@@ -28,7 +28,7 @@
                                     <div class="card-title">
                                         <span class="timer" data-from="0" data-to="1121">1,121</span>
                                     </div>
-                                    <div class="card-subtitle">PEDIDOS PENDIENTES</div>
+                                    <div class="card-subtitle">PEDIDOS REALIZADOS</div>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                                     <div class="card-title">
                                         <span class="timer" data-from="0" data-to="72">72</span>%
                                     </div>
-                                    <div class="card-subtitle">PEDIDOS REALIZADOS</div>
+                                    <div class="card-subtitle">PEDIDOS PENDIENTES</div>
                                 </div>
                             </div>
                         </div>
@@ -57,10 +57,10 @@
                                     <div class="header-menu active">Realizados (532)</div>
                                     <div class="header-menu">Cancelados</div>
                                     <select class="select-rounded pull-right">
-                                        <option>Today</option>
-                                        <option>7 Days</option>
-                                        <option>14 Days</option>
-                                        <option>Last Month</option>
+                                        <option>Hoy</option>
+                                        <option>Por hora</option>
+                                        <option>Por día</option>
+                                        <option>Por Mes</option>
                                     </select>
                                 </div>
                                 <div class="line-chart-wrapper">
@@ -77,10 +77,10 @@
                                 <i class="fa fa-suitcase"></i>
                                 <div class="content-header-title">Pedidos Hoy</div>
                                 <select class="select-rounded pull-right">
-                                    <option>Today</option>
-                                    <option>7 Days</option>
-                                    <option>14 Days</option>
-                                    <option>Last Month</option>
+                                    <option>Hoy</option>
+                                    <option>Por hora</option>
+                                    <option>Por día</option>
+                                    <option>Por Mes</option>
                                 </select>
                             </div>
                             <div class="content-box slide-item">

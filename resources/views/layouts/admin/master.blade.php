@@ -18,7 +18,9 @@
 
     <script src="/admin/plugins/jquery/jquery-2.1.1.min.js"></script>
     <script src="/admin/plugins/chart.js/dist/Chart.min.js"></script>
+    <script src="/admin/plugins/moment/min/moment.min.js"></script>
     <script src="/admin/plugins/jquery-count-to/jquery.countTo.js"></script>
+    <script src="/admin/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
     <script src="/admin/js/app.js"></script>
 </head>
 <body>

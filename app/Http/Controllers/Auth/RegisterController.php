@@ -28,7 +28,8 @@ class RegisterController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/home';
+    protected $redirectTo = '/';
+    //Session::flash('message', 'This is a message!');
 
     /**
      * Create a new controller instance.
